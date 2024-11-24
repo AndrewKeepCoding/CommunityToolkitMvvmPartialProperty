@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CommunityToolkitMvvmPartialProperty (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CommunityToolkitMvvmPartialProperty (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
